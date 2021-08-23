@@ -42,3 +42,4 @@ def program_main():
             pass
     print("新增"+str(ci)+"项")
 
+program_main()
